@@ -150,6 +150,7 @@
             button10.TabIndex = 10;
             button10.Text = "+";
             button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
             // 
             // button11
             // 
